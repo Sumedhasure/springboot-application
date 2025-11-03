@@ -9,6 +9,9 @@ public class Laptop implements Computer {
     public void compile(){
         System.out.println("Compiling with 404 bugs ");
     }
+    public void run(){
+        System.out.println("Running");
+    }
 }
 
 
